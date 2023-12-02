@@ -1,0 +1,150 @@
+[
+    
+    {
+        
+        "id": "gorro-satin-1",
+        "titulo": "gorro-satin-1",
+        "imagen": "../img/gorro-satin-2.png",
+        "categoria": {
+            "nombre":"Gorros",
+            "id": "gorros"
+        },
+        "precio": 38500
+    },
+    {
+        "id": "gorro-satin-2",
+        "titulo": "gorro-satin-2",
+        "imagen": "../img/gorro-satin-3.png",
+        "categoria": {
+            "nombre":"Gorros",
+            "id": "gorros"
+        },
+        "precio": 38500
+    },
+    {
+        "id": "gorro-satin-3",
+        "titulo": "gorro-satin-3",
+        "imagen": "../img/gorro-satin-4.png",
+        "categoria": {
+            "nombre":"Gorros",
+            "id": "gorros"
+        },
+        "precio": 38500
+    },
+    {
+        "id": "gorro-satin-2",
+        "titulo": "gorro-satin-2",
+        "imagen": "../img/gorro-satin-3.png",
+        "categoria": {
+            "nombre":"Gorros",
+            "id": "gorros"
+        },
+        "precio": 38500
+    },
+    {
+       "id": "funda-satin-1",
+        "titulo": "funda-satin-1",
+        "imagen": "../img/funda-satin-1.png",
+        "categoria": {
+            "nombre":"Fundas",
+            "id": "fundas"
+        },
+        "precio": 38500 
+    },
+     {
+       "id": "funda-satin-2",
+        "titulo": "funda-satin-2",
+        "imagen": "../img/funda-satin-2.png",
+        "categoria": {
+            "nombre":"Fundas",
+            "id": "fundas"
+        },
+        "precio": 38500 
+    },
+     {
+       "id": "funda-satin-3",
+        "titulo": "funda-satin-3",
+        "imagen": "../img/funda-satin-3.png",
+        "categoria": {
+            "nombre":"Fundas",
+            "id": "fundas"
+        },
+        "precio": 38500 
+    },
+    {
+       "id": "funda-satin-4",
+        "titulo": "funda-satin-4",
+        "imagen": "../img/funda-satin-4.png",
+        "categoria": {
+            "nombre":"Fundas",
+            "id": "fundas"
+        },
+        "precio": 38500 
+    },
+    {
+       "id": "bamba-satin-1",
+        "titulo": "bamba-satin-1",
+        "imagen": "../img/bamba-satin-1.png",
+        "categoria": {
+            "nombre":"Bambas",
+            "id": "bambas"
+        },
+        "precio": 38500 
+    },
+    {
+       "id": "bamba-satin-2",
+        "titulo": "bamba-satin-2",
+        "imagen": "../img/bamba-satin-2.png",
+        "categoria": {
+            "nombre":"Bambas",
+            "id": "bambas"
+        },
+        "precio": 38500 
+    },
+    {
+       "id": "bamba-satin-3",
+        "titulo": "bamba-satin-3",
+        "imagen": "../img/bamba-satin-3.png",
+        "categoria": {
+            "nombre":"Bambas",
+            "id": "bambas"
+        },
+        "precio": 38500 
+    },
+    {
+       "id": "bamba-satin-4",
+        "titulo": "bamba-satin-4",
+        "imagen": "../img/bamba-satin-4.png",
+        "categoria": {
+            "nombre":"Bambas",
+            "id": "bambas"
+        },
+        "precio": 38500 
+    },
+       {
+       "id": "cojin-semillas-1",
+        "titulo": "cojin-semillas-1",
+        "imagen": "../img/cojin-semilla-1.png",
+        "categoria": {
+            "nombre":"Cojines",
+            "id": "cojines"
+        },
+        "precio": 38500 
+    },
+    
+       {
+       "id": "cojin-semillas-1",
+        "titulo": "cojin-semillas-1",
+        "imagen": "../img/cojin-semilla-2.png",
+        "categoria": {
+            "nombre":"Cojines",
+            "id": "cojines"
+        },
+        "precio": 38500 
+    }
+
+    
+
+
+
+]
